@@ -405,3 +405,9 @@
    type: school
    long: -78.863184
    lat: 38.434082
+ - name: CIATEQ GDL
+   description: Sistemas Inteligentes Multimedia
+   type: school
+   lat: 20.662937
+   long: -103.44491
+   link: http://posgrados.ciateq.edu.mx/
